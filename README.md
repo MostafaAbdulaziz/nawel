@@ -1,6 +1,3 @@
-# 🙋‍♂️ 🙋‍♂️ This is the application. If you want to join a meeting to discuss the code, I am ready 🙋‍♂️ 🙋‍♂️.
-## Nawel App
-
 ### Description of app :
 This application is an e-commerce app to display some different foods and displays popular restaurants near the customer.
 
@@ -13,9 +10,6 @@ This application is an e-commerce app to display some different foods and displa
 ## 🙋‍♂️ Uses:
 
 - State Management is Bloc.
-
-- Get data from firebase
-
 - Make the app responsive using flutter_screenutil
 
 
@@ -31,21 +25,16 @@ This application is an e-commerce app to display some different foods and displa
 - equatable
 - carousel_slider
 - flutter_screenutil
-- firebase_core
-- firebase_auth
-- cloud_firestore
-
 
 ## Movie UI:
 
 <p float="left">
-  <img src="nawel screens/Screenshot 2025-06-19 161720.png" width="800"/>
-  <img src="nawel screens/Screenshot 2025-06-19 140848.png" width="250"/>
-  <img src="nawel screens/Screenshot 2025-06-19 140638.png" width="250"/>
-  <img src="nawel screens/Screenshot 2025-06-19 140655.png" width="250"/>
-  <img src="nawel screens/Screenshot 2025-06-19 140707.png" width="250"/>
-  <img src="nawel screens/Screenshot 2025-06-19 140927.png" width="250"/>
-  <img src="nawel screens/Screenshot 2025-06-19 141158.png" width="250"/>
+  <img src="nawel screens/Screenshot 2025-07-01 171607.png" width="250"/>
+  <img src="nawel screens/Screenshot 2025-07-01 171644.png" width="250"/>
+  <img src="nawel screens/Screenshot 2025-07-01 171658.png" width="250"/>
+  <img src="nawel screens/Screenshot 2025-07-01 171711.png" width="250"/>
+  <img src="nawel screens/Screenshot 2025-07-01 172033.png" width="250"/>
+  <img src="nawel screens/Screenshot 2025-07-01 172216.png" width="250"/>
   <img src="nawel screens/Screenshot 2025-06-19 141239.png" width="250"/>
   <img src="nawel screens/Screenshot 2025-06-19 141253.png" width="250"/>
   
